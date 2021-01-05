@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "26.6.3",
+  "description": "jest testing",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawleywoo/Jest_prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hawleywoo/Jest_prac/issues"
+  },
+  "homepage": "https://github.com/Hawleywoo/Jest_prac#readme"
+}
